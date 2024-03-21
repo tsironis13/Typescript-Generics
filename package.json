@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "typescript": "^5.4.3",
+    "vitest": "^1.4.0"
+  },
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  }
+}
